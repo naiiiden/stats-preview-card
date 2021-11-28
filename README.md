@@ -8,6 +8,7 @@ your coding skills by building realistic projects.
 ### Mobile Design
 ![Mobile design](/design/mobile-design.jpg)
 
-There are slight difference between the provided screenshots and my solution. You can check my solution by clicking the link below.
+This is my first time designing mobile first layout so there might be slight differences between the provided screenshots and my solution. You can check my solution by clicking the link below.
 
 ## Live preview
+https://naiiiden.github.io/stats-preview-card/
