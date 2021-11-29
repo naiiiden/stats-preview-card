@@ -61,7 +61,7 @@ strong{
         rgba(170, 92, 219, 0.6), 
         rgba(170, 92, 219, 0.6)
       ),
-  url("/images/image-header-mobile.jpg");
+  url("images/image-header-mobile.jpg");
     width: 100%;
     min-height: 20vh;
     background-size: cover;
@@ -78,7 +78,7 @@ strong{
                 rgba(170, 92, 219, 0.6), 
                 rgba(170, 92, 219, 0.6)
               ),
-          url("/images/image-header-desktop.jpg");
+          url("images/image-header-desktop.jpg");
             width: 80%;
             min-height: 50vh;
             background-size: cover;
